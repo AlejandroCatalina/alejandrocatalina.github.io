@@ -10,7 +10,7 @@ I am currently a PhD student in bayesian statistics at Aalto University, working
 
 I studied a Bachelors in Computer Science at Universidad Aut\'onoma de Madrid. In my final year I joined the [Machine Learning Group](http://arantxa.ii.uam.es/~gaa/) to work with [Jos\'e R. Dorronsoro Ibero](https://portalcientifico.uam.es/ipublic/agent-personal/profile/iMarinaID/04-259712) for my bachelors thesis, titled _Data Analytics on Renewable Energies: Organization and Analysis of Radiation Satellite Measures_.
 
-After graduation I went on to study a Masters in Machine Learning at the same university and with the same supervisor, that ended with the masters thesis _Nesterov Acceleration Schemes for Group Lasso_, where I developed some theory in the field of Convex Optimization to accelerate convergence.
+After graduation I went on to study a Masters in Machine Learning at the same university and with the same supervisor, that ended with the masters thesis [Nesterov Acceleration Schemes for Group Lasso](https://repositorio.uam.es/bitstream/handle/10486/681033/Catalina_Feliu_Alejandro_tfm.pdf?sequence=1), where I developed some theory in the field of Convex Optimization to accelerate convergence.
 
 In October 2017 I joined the PhD program at Universidad Aut\'onoma de Madrid in machine learning. 
 After an interesting first year I joined the [Machine Learning Group](http://mlg.eng.cam.ac.uk) at Cambridge University as a visiting doctoral student, working under the supervision of [Jos\'e Miguel Hern\'andez Lobato](https://jmhl.org), where I became interested in Bayesian methods. 
