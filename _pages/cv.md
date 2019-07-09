@@ -16,6 +16,7 @@ In October 2017 I joined the PhD program at Universidad Autónoma de Madrid in m
 After an interesting first year I joined the [Machine Learning Group](http://mlg.eng.cam.ac.uk) at Cambridge University as a visiting doctoral student, working under the supervision of [José Miguel Hernández Lobato](https://jmhl.org), where I became interested in Bayesian methods. 
 
 Upon coming back to Spain I started working on a side project with José Miguel's brother, [Daniel Hernández Lobato](https://dhnzl.org), who is a professor in the same department I was doing the PhD at. 
+This is a project that I am still currently pursuing, developing inference methods for spike and slab models under multiclass classification settings.
 <!-- In this project we developed a spike and slab model for multiclass classification using expectation propagation for inference, of which an abstract (work in progress) was accepted at the BISP (Bayesian Inference in Stochastic Processes) workshop in June 2019. -->
 
 A few months later and after I got news of some openings at the [Probabilistic Machine Learning Group](https://research.cs.aalto.fi/pml/) I got in touch with Aki, who accepted me to become his student, and here I am!
