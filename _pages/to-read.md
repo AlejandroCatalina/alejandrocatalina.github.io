@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I attend regularly some reading circles here at Aalto and in this page I will post a list of papers and resources that I find useful or interesting or that I intend to read and study.
-It is very likely that I miss a lot of good references, and any of these misses will be intentional, so take this as a list of my favourites.
+It is very likely that I unintentionally miss a lot of good references, so take this as a list of my favourites.
 As a collateral effect, if any of the papers or references that I post here remind you of some good references that I haven't posted here, please drop me an email as I would definitely like to take a look at those.
 
 ## Journal Club
