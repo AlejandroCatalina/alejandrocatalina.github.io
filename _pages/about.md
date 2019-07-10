@@ -13,7 +13,7 @@ Here you will find a short summary of my research interests, project notes, and 
 If you ever want to get in touch, please do not hesitate to do so! 
 I am always very happy to talk about various topics, from science to other more general concepts.
 
-In short, my work is focus around the development of new methods within the Bayesian Statistics framework.
+In short, my work is focused around the development of new methods within the Bayesian Statistics framework.
 These range from doing feature selection to developing new inference approaches for Bayesian computation.
 All of these can be understood from the perspective of developing a robust and more automated workflow for Bayesian modeling and reasoning.
 
