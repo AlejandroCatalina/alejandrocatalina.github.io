@@ -15,6 +15,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "VIP"
+    url: /vip/
+    
   - title: "About me"
     url: /cv/
     
