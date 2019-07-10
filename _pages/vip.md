@@ -5,7 +5,7 @@ permalink: /vip/
 author_profile: true
 ---
 
-Here you can find a list of relevant people divided in two categories, my collaborators and other researchers whose work I find interesting and I try to follow up.
+Here you can find a list of relevant people divided in two categories, my collaborators and other researchers whose work I find interesting and I try to follow up (of course this list is not exhaustive as there are tens of researchers whose work I find very insightful and useful, these are only my *regular feed*).
 
 ### Collaborators (in no particular order)
 
