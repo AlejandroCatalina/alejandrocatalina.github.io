@@ -20,6 +20,7 @@ Indeed, not only do we need robust methods for inference but also efficient and 
 
 To achieve this, I work with the [Stan](http://mc-stan.org) probabilistic language, that uses Hamiltonian Monte Carlo to run inference for our models.
 Hamiltonian Monte Carlo is a very efficient MCMC sampler that runs orders of magnitude faster than previous methods.
+As such, it is able to converge to the true posterior distribution of the model's parameters very fast, apart from informing the user about any pathological behaviour that may have happened during sampling: a *must* tool to have!
 
 ## Current Research
 
