@@ -37,7 +37,7 @@ Here I will post the list of my refereed articles, whereas more informal blog po
 
 Journal articles
 
-  - **Catalina A.**, Alaíz C.M., Dorronsoro J.R. (2019). Combining Numerical Weather Predictions and Satellite Data forPV Energy Nowcasting, *submitted* to IEEE Transactions on Sustainable Energy.
+  - **Catalina A.**, Alaíz C.M., Dorronsoro J.R. (2019). Combining Numerical Weather Predictions and Satellite Data for PV Energy Nowcasting, *submitted* to IEEE Transactions on Sustainable Energy.
   - **Catalina A.**, Torres-Barrán A., Alaíz C.M., Dorronsoro J.R. (2018). Machine Learning Nowcasting of PV Energy using Satellite Data. Neural Processing Letters (NEPL). DOI: 10.1007/s11063-018-09969-1. [[article](https://link.springer.com/article/10.1007/s11063-018-09969-1)]
   
 Conference articles
