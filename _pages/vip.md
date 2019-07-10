@@ -20,7 +20,7 @@ Here you can find a list of relevant people divided in two categories, my collab
   - Andrew Gelman
   - Måns Magnusson
   - Michael Betancourt
-  - Dan Simpson
+  - Daniel Simpson
   - Tamara Broderick
   - José Miguel Hernández Lobato
   - Daniel Hernández Lobato
