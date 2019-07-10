@@ -14,7 +14,7 @@ My research interests are within the field of Bayesian methods, more specificall
 
 ## Why Bayesian?
 
-When modeling it is important to have at our disposal principled tools and workflows that help us to build, fit, evaluate and diagnose our models.
+When modeling, it is important to have at our disposal principled tools and workflows that help us to build, fit, evaluate and diagnose our models.
 A fundamental part of this is the ability of expressing and incorporating our assumptions and prior knowledge into the model itself to carry out inference. 
 Indeed, not only do we need robust methods for inference but also efficient and computationally fast ones, since the modeling pipeline is rarely, if ever, implemented only once in a given problem.
 
