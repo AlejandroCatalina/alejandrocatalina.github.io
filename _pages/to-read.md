@@ -48,7 +48,17 @@ The algorithm then projects the reference posterior to a subset of features and 
   - **Projection predictive model selection for Gaussian processes** by Juho Piironen and Aki Vehtari [[article](https://rc.signalprocessingsociety.org/conference-workshop-videos/mlsp/SPSVID00114.html)][[preprint](https://arxiv.org/abs/1510.04813)]. In this paper the authors extend *projpred* for Gaussian Processes, analyzing the problem of the Maximum Likelihood Estimation and proposing a solution with nice experiments comparing to the standard Automatic Relevance Determination approach.
   - **Sparsity information and regularization in the horseshoe and other shrinkage priors** by Juho Piironen and Aki Vehtari [[article](https://projecteuclid.org/euclid.ejs/1513306866)]. The authors propose a new shrinkage prior based on the horseshoe prior, the *regularised* horseshoe prior, that allows identification of large slopes alongside a strong shrinkage of the non relevant ones. 
 
+## Tutorials and Case Studies
+
+In this section I will post a list of more informal references that I found nonetheless useful, maybe from a more practical prespective:
+
+  - **Towards a principled Bayesian workflow** by Michael Betancourt [[link](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html)]. In this case study Michael explores different options for doing sparse modeling, a very common and popular approach for Generalized Linear Models with high dimensionality. Furthermore, I find everything that Michael writes highly relevant.
+  - **Stan User's Guide** by Stan development team [[link](https://mc-stan.org/docs/2_19/stan-users-guide/index.html)]. A must if you are using Stan to write your models, don't miss the language reference either!
+
+
 ## Books
+
+I think these textbooks are really nice material to get into Bayesian statistics and modeling:
 
   - **Statistical Rethinking** by Richard McElreath [[book](http://xcelab.net/rm/statistical-rethinking/)]. A very nice book about Bayesian modeling, very accessible and covering a broad range of models within Generalized Linear Models, interaction models and finally multilevel models, unleashing very powerful and flexible methods. I particularly loved Richard's style that makes the book very fun to read while learning a lot of interesting concepts like entropy, information criteria, multilevel models, etc.
   - **Bayesian Data Analysis** by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin [[book](http://www.stat.columbia.edu/~gelman/book/)] *to read*. Another interesting textbook covering some of the same topics Statistical Rethinking does, but from a slightly different perspective. I am taking BDA course at Aalto this fall so I haven't read the book yet.
