@@ -7,10 +7,10 @@ author_profile: true
 
 My research interests are within the field of Bayesian methods, more specifically:
 
-  - *Feature selection*: projective inference, predictive performance, etc.
-  - *Inference*: Markov Chain Monte Carlo methods (HMC), variational inference, expectation propagation, Stein variational gradient descent, etc.
-  - *Generative models*: manifold learning, flow--based methods, differential modeling (ODE and SDE based models), etc.
-  - *Bayesian Modeling*: multilevel models, etc.
+  - **Feature selection**: projective inference, predictive performance, etc.
+  - **Inference**: Markov Chain Monte Carlo methods (HMC), variational inference, expectation propagation, Stein variational gradient descent, etc.
+  - **Generative models**: manifold learning, flow--based methods, differential modeling (ODE and SDE based models), etc.
+  - **Bayesian Modeling**: multilevel models, etc.
 
 ## Why Bayesian?
 
@@ -25,10 +25,10 @@ Hamiltonian Monte Carlo is a very efficient MCMC sampler that runs orders of mag
 
 A main part of my current research focuses on the following:
 
-  - *projpred*: [projpred](https://github.com/stan-dev/projpred.git) is an R-package that performs Bayesian feature selection for a given reference model. My main projects right now consist on 
+  - **projpred**: [projpred](https://github.com/stan-dev/projpred.git) is an R-package that performs Bayesian feature selection for a given reference model. My main projects right now consist on 
     1. extending and improving the current projpred's API to work on `formula` objects, making projpred a much more general package and,
     2. extending projpred to work on more types of models, from Generalized Additive Models to more complex multilevel models, that require developing new theory.
-  - *diffGP*: in this project a colleague and I are implementing the ideas in [Differentially deep Gaussian processes](https://arxiv.org/abs/1810.04066) and trying to improve upon some of its limitations, for instance implementing a better inference algorithm.
+  - **diffGP**: in this project a colleague and I are implementing the ideas in [Differentially deep Gaussian processes](https://arxiv.org/abs/1810.04066) and trying to improve upon some of its limitations, for instance implementing a better inference algorithm.
 
 ## Writing
 
