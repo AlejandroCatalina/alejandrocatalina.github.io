@@ -37,10 +37,16 @@ Here I will post the list of my refereed articles, whereas more informal blog po
 
 Journal articles
 
-  - ...
-  - ...
+  - **Catalina A.**, Alaíz C.M., Dorronsoro J.R. (2019). Combining Numerical Weather Predictions and Satellite Data forPV Energy Nowcasting, *submitted* to IEEE Transactions on Sustainable Energy.
+  - **Catalina A.**, Torres-Barrán A., Alaíz C.M., Dorronsoro J.R. (2018). Machine Learning Nowcasting of PV Energyusing Satellite Data. Neural Processing Letters (NEPL). DOI: 10.1007/s11063-018-09969-1.
   
 Conference articles
 
-  - ...
-  - ...
+  - Ruiz C., **Catalina A.**, Alaíz C.M., Dorronsoro J.R. (2019). Flexible Kernel Selection in Multitask Support VectorRegression. In 2019 International Joint Conference on Neural Networks (IJCNN), in press.
+  - de la Pompa V.,**Catalina A.**, Dorronsoro J.R. (2018) Gaussian Process Kernels for Support Vector Regression inWind Energy Prediction. In: Yin H., Camacho D., Novais P., Tallón-Ballesteros A. (eds) Intelligent DataEngineering and Automated Learning – IDEAL 2018. IDEAL 2018. Lecture Notes in Computer Science, vol 11315.Springer, Cham.
+  - **Catalina A.**, Alaíz C.M., Dorronsoro J.R. (2018). Fused Lasso Dimensionality Reduction of Highly Correlated NWPFeatures. In: Woon W., Aung Z., Kramer O., Madnick S. (eds) Data Analytics for Renewable Energy Integration. DARE 2018. Lecture Notes in Computer Science.
+  - **Catalina A.**, Alaíz C.M., Dorronsoro J.R. (2018). Accelerated Block Coordinate Descent for Sparse Group Lasso. In 2018 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.
+  - **Catalina A.**, Alaíz C.M., Dorronsoro J.R. (2018). Revisiting FISTA for Lasso: Acceleration Strategies Over the Regularization Path. In ESANN 2018.
+  - **Catalina A.**, Dorronsoro J.R. (2017) NWP Ensembles for Wind Energy Uncertainty Estimates. In: Woon W., AungZ., Kramer O., Madnick S. (eds) Data Analytics for Renewable Energy Integration. DARE 2017. Lecture Notes in Computer Science, vol 10691. Springer, Cham.
+  - **Catalina A.**, Torres-Barrán A., Dorronsoro J.R. (2017) Satellite Based Nowcasting of PV Energy over PeninsularSpain. In: Rojas I., Joya G., Catala A. (eds) Advances in Computational Intelligence. IWANN 2017. Lecture Notes in Computer Science, vol 10305, pages 685-697. Springer, Cham.
+  - **Catalina A.**, Torres-Barrán A., Dorronsoro J.R. (2017) Machine Learning Prediction of Photovoltaic Energy fromSatellite Sources. In: Woon W., Aung Z., Kramer O., Madnick S. (eds) Data Analytics for Renewable Energy Integration. DARE 2016. Lecture Notes in Computer Science, vol 10097, pages 31-42. Springer, Cham.
