@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Alejandro Catalina, although my friends usually call me Alex, and this is my personal website.
-Here you will find a short summary of my research interests, project notes, and other activities that interest me at the time of writing. 
+In this personal web site you will find a short summary of my research interests, project notes, and other activities that interest me at the time of writing. 
 If you ever want to get in touch, please do not hesitate to do so! 
 I am always very happy to talk about various topics, from science to other more general concepts.
 
