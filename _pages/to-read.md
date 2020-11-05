@@ -14,11 +14,11 @@ As a collateral effect, if any of the papers or references that I post here remi
 Most of the papers that I will post here are very related to my research interests, that you can read about at [Research](http://alejandrocatalina.github.io), although some of the papers may be here more as a general reference.
 The two reading circles that currently I attend are *Variational Inference* and *Deep Generative Models*, self organized by students at the PML group here at Aalto, so many of these papers will be related to those.
 
-### Projective Feature Selection
+### Projection Predictive Feature Selection
 
 These articles are directly related to one of my main projects for my PhD. 
-They elaborate on the subject of performing feature selection starting from a reference model that is fitted using all the available features.
-The algorithm then projects the reference posterior to a subset of features and chooses the best subset at every iteration according to some predictive performance measures; the *elpd* (expected log predictive density).
+They elaborate on the subject of performing variable and structure selection on a reference model that is fitted using all the available variables of which we have posterior draws available.
+The algorithm then projects the reference posterior to a subset of the data and finds the best subset iteration according to some predictive performance measures; as the *elpd* (expected log predictive density).
 
   - **Projective Inference in High-dimensional Problems: Prediction and Feature Selection** by Juho Piironen, Markus Paasinimei and Aki Vehtari [[preprint](http://arxiv.org/abs/1810.02406)]. This is the full paper describing the theoretical approach. The key point is solving the Maximum Likelihood Estimation problem for each projection. At this point, this only extends to the family of Generalized Linear Models.
   - **The Kernel Interaction Trick: Fast Bayesian Discovery of Pairwise Interactions in High Dimensions** by Raj Agrawal, Jonathan H. Huggins, Brian Trippe and Tamara Broderick [[preprint](http://arxiv.org/abs/1905.06501)]. Very interesting paper that introduces a new approach to discover high dimensional interaction effects. This consists of writing the original model as a GP and deriving the equivalent *interaction kernel* for the model at hand and then doing inference on the GP instead. The benefit here comes from the fact that kernels don't scale with sample size, but their cost is linear with respect to parameter size.
@@ -28,8 +28,7 @@ The algorithm then projects the reference posterior to a subset of features and 
 
 ### Generative Models
 
-This collection of papers is related to generative models, where our aim is to learn the underlying distribution of a given data sample with the ultimate goal of *generating* samples from this distribution.
-Although my interest comes from the Bayesian perspective, it is important to know that these methods are not uniquely Bayesian (note GANs, that are precisely the State of the Art in this field).
+This collection of papers is related to generative models, where the aim is to learn the underlying distribution of a given data sample with the ultimate goal of *generating* samples from this distribution.
 
   - **Only Bayes should learn a Manifold (on the estimation of differential geometric structure from data)** by Søren Hauberg [[preprint](https://arxiv.org/abs/1806.04994)] *to read*. I found this a very interesting paper that approaches the density estimation problem from a manifold learning perspective and sheds some light from this different angle. Apart from this, it seems to be quite rigorous on the math.
   - **Variational Implicit Processes** by Chao Ma, Yingzhen Li, José Miguel Hernández Lobato [[preprint](http://arxiv.org/abs/1806.02390)]. Here the authors introduce *Implicit Processes*, a stochastic process that places implicit multivariate distributions over collections of random variables. These are highly flexible implicit priors over functions. They also propose a novel inference algorithm for these models.
@@ -61,4 +60,4 @@ In this section I will post a list of more informal references that I found none
 I think these textbooks are really nice material to get into Bayesian statistics and modeling:
 
   - **Statistical Rethinking** by Richard McElreath [[book](http://xcelab.net/rm/statistical-rethinking/)]. A very nice book about Bayesian modeling, very accessible and covering a broad range of models within Generalized Linear Models, interaction models and finally multilevel models, unleashing very powerful and flexible methods. I particularly loved Richard's style that makes the book very fun to read while learning a lot of interesting concepts like entropy, information criteria, multilevel models, etc.
-  - **Bayesian Data Analysis** by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin [[book](http://www.stat.columbia.edu/~gelman/book/)] *to read*. Another interesting textbook covering some of the same topics Statistical Rethinking does, but from a slightly different perspective. I am taking BDA course at Aalto this fall so I haven't read the book yet.
+  - **Bayesian Data Analysis** by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin [[book](http://www.stat.columbia.edu/~gelman/book/)]. Another interesting textbook covering some of the same topics Statistical Rethinking does, but from a slightly different perspective. 
